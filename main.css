@@ -1,0 +1,29 @@
+<style>
+h1 {font-family: Copperplate, Papyrus, Fantasy; color:#c90076}
+h2 {font-family: Garamond, Georgia, Serif; color:#c90076}
+p {font-family: Georgia, Garamond, Serif ; color:#FFFFFF}
+body {text-align: center;}
+p.one {word-spacing: 55px;}
+div{
+border-style:outset;
+border-width: 5px;
+border-radius: 10px;
+border-color: gold;
+background: #20124d;
+margin: 5px;
+margin-left:300px;
+margin-right:300px;
+animation-name:SlideUp;
+animation-duration: 1s;
+animation-delay: 0.5s;
+}
+@keyframes SlideUp{
+from{transform: translateY(300%)}
+}
+body{
+background-image: url("https://cdn.discordapp.com/attachments/1003734042920898662/1207052325328523285/IMG_4154.jpg?ex=667f1514&is=667dc394&hm=ac3fb096aaa8fd21204c52f7bda9f48ba3cf37f9be2608d9cf66dbc3eb7095d1&");
+background-attachment: fixed;
+background-position: center;
+background-size: cover;
+}
+</style>
