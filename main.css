@@ -21,7 +21,7 @@ animation-delay: 0.5s;
 from{transform: translateY(300%)}
 }
 body{
-background-image: url("valentineicon.jpg");
+background-image: src=("valentineicon.jpg");
 background-attachment: fixed;
 background-position: center;
 background-size: cover;
