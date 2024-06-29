@@ -18,7 +18,8 @@ animation-duration: 1s;
 animation-delay: 0.5s;
 }
 @keyframes SlideUp{
-from{transform: translateY(300%)}
+from{transform: 
+  translateY(300%)}
 }
 body{
 background-image: url("Icons/valentineicon.jpg");
