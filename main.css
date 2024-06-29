@@ -22,8 +22,6 @@ from{transform:
   translateY(300%)}
 }
 body{
-background-image: url=("Icons/valentineicon.jpg");
-background-position: center;
-background-size: cover;
+background-image: url=("Icons/valentineicon.jpg")
 }
 </style>
