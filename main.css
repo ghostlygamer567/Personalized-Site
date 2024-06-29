@@ -23,7 +23,6 @@ from{transform:
 }
 body{
 background-image: url("Icons/valentineicon.jpg");
-background-attachment: fixed;
 background-position: center;
 background-size: cover;
 }
